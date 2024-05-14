@@ -5,6 +5,6 @@ Se enfoca en replicar la apariencia visual de Pinterest,ofreciendo una experienc
 
 ### Características
 
-*Diseño Responsive: Adaptable a diferentes tamaños de pantalla para una experiencia de usiario optima en dispositivos móviles y de escritorio.
+* Diseño Responsive: Adaptable a diferentes tamaños de pantalla para una experiencia de usiario optima en dispositivos móviles y de escritorio.
 
-*Interfaz de Usuario Intuitiva: Inspirada en pinterest con una navegación fácil y accesible.
+* Interfaz de Usuario Intuitiva: Inspirada en pinterest con una navegación fácil y accesible.
